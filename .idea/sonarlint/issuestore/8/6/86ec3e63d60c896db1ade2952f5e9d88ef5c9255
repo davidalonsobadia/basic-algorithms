@@ -1,0 +1,7 @@
+
+U
+java:S1197	"8Move the array designator from the variable to the type.(ÃË¿—8Ïáº/
+8
+java:S3626"Remove this redundant jump.(ûÁİ…8ˆı¶áº/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¨ûê¤ûÿÿÿÿ8ó‚áº/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºç£ˆ

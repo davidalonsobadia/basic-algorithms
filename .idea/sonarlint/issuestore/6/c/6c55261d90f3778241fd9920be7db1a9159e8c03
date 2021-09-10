@@ -1,0 +1,15 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(¿ãË…8‰Èû½º/
+G
+java:S1172"+Remove this unused method parameter "size".(„õú	8¹÷ª”º/
+N
+java:S1144"2Remove this unused private "insertionSort" method.(„õú	8‰Èû½º/
+Y
+java:S1854	"7Remove this useless assignment to local variable "arr".(ÓÿÎåüÿÿÿÿ8üë¾º/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øØéƒ
+X	java:S125""<This block of commented-out lines of code should be removed.(Õœ¢Ì8’±´”º/
+J
+java:S1481	"(Remove this unused "arr" local variable.(ÓÿÎåüÿÿÿÿ8üë¾º/
+Z
+java:S1197	"8Move the array designator from the variable to the type.(ÓÿÎåüÿÿÿÿ8ûÓ¿“º/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ù›üäşÿÿÿÿ8Û“º/
